@@ -1,6 +1,8 @@
 # T5_finetuning_for_summary
 
 ## Repository 구조
+
+```
 ├── README.md
 ├── requirements.txt
 ├── t5_lib.txt
@@ -12,6 +14,7 @@
 ├── utils.py
 ├── dataloader.py
 └── infer.py
+```
 
 ## Requirements
 - Python 3 (tested on 3.8)
@@ -49,9 +52,13 @@ If you want to change hyper-parameters for inference,
 
 In **train/val/test.json** file,
 
+```
 [{'source':'...', 'target':'...'}, {'source':'...', 'target':'...'}, ...]
+```
 
 After inference, in **result.json** file,
 
+```
 [{'source':'...', 'target':'...'}, {'source':'...', 'target':'...'}, ...]
+```
 
