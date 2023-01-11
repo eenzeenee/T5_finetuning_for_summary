@@ -47,6 +47,11 @@ If you want to change hyper-parameters for inference,
 
 ## Data format
 
-In train/val/test.json file,
+In **train/val/test.json** file,
 
 [{'source':'...', 'target':'...'}, {'source':'...', 'target':'...'}, ...]
+
+After inference, in **result.json** file,
+
+[{'source':'...', 'target':'...'}, {'source':'...', 'target':'...'}, ...]
+
