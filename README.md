@@ -33,7 +33,7 @@ and then,
 
 `python train.py`
 
-If you want to change hyper-parameters for training,
+If you want to change hyper-parameters for training,  
 `python train.py --num_train_epochs 5 --train_batch_size 16 ...`
 
 ## Inference
