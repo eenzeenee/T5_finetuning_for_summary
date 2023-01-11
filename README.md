@@ -20,10 +20,10 @@
 - Python 3 (tested on 3.8)
 - CUDA (tested on 11.3)
 
-`conda create -n t5 python=3.8`
-`conda install -c anaconda numpy`
-`conda install -c conda-forge transformers`
-`conda install -c conda-forge datasets`
+`conda create -n t5 python=3.8`  
+`conda install -c anaconda numpy`  
+`conda install -c conda-forge transformers`  
+`conda install -c conda-forge datasets`  
 `conda install -c anaconda nltk`
 
 or
