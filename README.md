@@ -6,10 +6,6 @@
 ├── README.md
 ├── requirements.txt
 ├── t5_lib.txt
-├── data
-|   ├── train.json
-│   ├── val.json
-│   └── test.json
 ├── train.py
 ├── utils.py
 ├── dataloader.py
