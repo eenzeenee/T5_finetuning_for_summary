@@ -1,5 +1,7 @@
 # T5_finetuning_for_summary
 
+한국어 데이터셋을 활용하여 T5 모델을 text summarization task를 위해 finetuning 하는 코드입니다.
+
 ## Repository 구조
 
 ```
